@@ -93,6 +93,7 @@ Start both the frontend and backend servers simultaneously:
 
 Bash
 npm run dev
+
 The application will be running at http://localhost:3000
 
 🌐 Live Demo
@@ -100,7 +101,7 @@ The application will be running at http://localhost:3000
 
 📸 Preview
 (<img width="1907" height="936" alt="Screenshot 2026-05-18 200347" src="https://github.com/user-attachments/assets/16cb7bdf-7c5d-41f7-9ddb-ffa24116e00f" />)
-<img width="1915" height="928" alt="FoodieExpress Dashboard" src="LINK_TO_YOUR_IMAGE" />
+<img width="1920" height="927" alt="Screenshot 2026-05-18 200542" src="https://github.com/user-attachments/assets/1f77c0cc-9318-42ec-be72-9462ac3c5d0b" />
 
 
 👨‍💻 Author
