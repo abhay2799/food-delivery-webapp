@@ -99,8 +99,9 @@ The application will be running at http://localhost:3000
 (Add your hosted Vercel/Render link here later!)
 
 📸 Preview
-(Drop a screenshot of your app's homepage here!)
-<img width="1915" height="928" alt="FoodieExpress Dashboard" src="LINK_TO_YOUR_IMAGE" />
+<img width="1907" height="936" alt="Screenshot 2026-05-18 200347" src="https://github.com/user-attachments/assets/b654b2d6-73a7-423a-9e60-4b492237721f" />
+<img width="1920" height="928" alt="Screenshot 2026-05-18 200436" src="https://github.com/user-attachments/assets/2857dbca-0de1-464b-8022-0aa2393b13f3" />
+<img width="1920" height="927" alt="Screenshot 2026-05-18 200542" src="https://github.com/user-attachments/assets/27583331-9af8-4d41-baf6-3674dee55652" />
 
 👨‍💻 Author
 Abhay Pratap Singh Chauhan
