@@ -78,8 +78,8 @@ UI Highlights:-
 ⚡ How to Run
 Clone the repository:
 
-Bash
 git clone [https://github.com/your-username/food-delivery-webapp.git](https://github.com/your-username/food-delivery-webapp.git)
+
 Open the project folder and install the workspace dependencies:
 
 ```Bash
