@@ -42,7 +42,6 @@ The project is built using a **modernized JavaScript/TypeScript ecosystem with a
 
 ## 📂 Project Structure
 
-```text
 food-delivery-webapp
 │
 ├── client
