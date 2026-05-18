@@ -32,7 +32,7 @@ const initialState: RestaurantState = {
 
 export const fetchRestaurants = createAsyncThunk(
   'restaurants/fetchAll',
-  async (params?: { search?: string; cuisine?: string; city?: string }, { rejectWithValue }) => {
+  async (params: { search?: string; cuisine?: string; city?: string }, { rejectWithValue }) => {
     try {
       const { data } = await api.get('/restaurants', { params });
       return data.restaurants;
