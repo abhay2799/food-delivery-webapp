@@ -82,18 +82,21 @@ Bash
 git clone [https://github.com/your-username/food-delivery-webapp.git](https://github.com/your-username/food-delivery-webapp.git)
 Open the project folder and install the workspace dependencies:
 
-Bash
+```Bash
 cd food-delivery-webapp
 npm install
 npm run install:all
+```
 Set up your .env variables in the /server folder, then initialize the database:
 
-Bash
+```Bash
 npm run db:setup
+```
 Start both the frontend and backend servers simultaneously:
 
-Bash
+```Bash
 npm run dev
+```
 
 The application will be running at http://localhost:3000
 
@@ -106,7 +109,7 @@ The application will be running at http://localhost:3000
 ![FoodieExpress Dashboard](https://github.com/user-attachments/assets/1f77c0cc-9318-42ec-be72-9462ac3c5d0b)
 
 
-
+```
 👨‍💻 Author
 Abhay Pratap Singh Chauhan
 
@@ -115,3 +118,4 @@ Passionate about building scalable backends, clean UIs, and robust JavaScript ap
 
 📜 License
 This project is open source and available under the MIT License.
+```
