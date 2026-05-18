@@ -102,6 +102,7 @@ The application will be running at http://localhost:3000
 
 📸 Preview
 ![FoodieExpress Dashboard](https://github.com/user-attachments/assets/16cb7bdf-7c5d-41f7-9ddb-ffa24116e00f)
+![FoodieExpress Dashboard](https://github.com/user-attachments/assets/833cba92-f059-4553-9509-ffe5d696c7f7)
 ![FoodieExpress Dashboard](https://github.com/user-attachments/assets/1f77c0cc-9318-42ec-be72-9462ac3c5d0b)
 
 
