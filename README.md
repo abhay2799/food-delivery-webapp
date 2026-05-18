@@ -41,7 +41,7 @@ The project is built using a **modernized JavaScript/TypeScript ecosystem with a
 ---
 
 ## 📂 Project Structure
-
+```
 food-delivery-webapp
 │
 ├── client
@@ -66,6 +66,8 @@ food-delivery-webapp
 │
 ├── package.json (Workspace Root)
 └── .gitignore
+
+```
 
 UI Highlights:-
 * Highly responsive frontend built with Tailwind CSS
