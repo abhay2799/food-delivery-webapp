@@ -1,5 +1,5 @@
 'use client';
-
+import { Suspense } from 'react';
 import { useEffect, useState } from 'react';
 import { useAppDispatch, useAppSelector } from '@/redux/hooks';
 import { fetchRestaurants } from '@/redux/slices/restaurantSlice';
@@ -9,7 +9,7 @@ import { useSearchParams } from 'next/navigation';
 import { Search, Filter } from 'lucide-react';
 import { motion } from 'framer-motion';
 
-export default function RestaurantsPage() {
+function RestaurantsContent() {
   const dispatch = useAppDispatch();
   const { restaurants, loading } = useAppSelector((state) => state.restaurants);
   const searchParams = useSearchParams();
@@ -87,5 +87,13 @@ export default function RestaurantsPage() {
         </div>
       )}
     </div>
+  );
+}
+
+export default function RestaurantsPage() {
+  return (
+    <Suspense fallback={<div className="p-10 text-center text-white text-xl">Loading restaurants...</div>}>
+      <RestaurantsContent />
+    </Suspense>
   );
 }
