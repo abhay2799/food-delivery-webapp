@@ -86,7 +86,7 @@ Open the project folder and install the workspace dependencies:
 cd food-delivery-webapp
 npm install
 npm run install:all
-```
+``` 
 Set up your .env variables in the /server folder, then initialize the database:
 
 ```Bash
@@ -101,7 +101,7 @@ npm run dev
 The application will be running at http://localhost:3000
 
 🌐 Live Demo
-(Add your hosted Vercel/Render link here later!)
+https://foodie-express-webapp.vercel.app
 
 📸 Preview
 ![FoodieExpress Dashboard](https://github.com/user-attachments/assets/16cb7bdf-7c5d-41f7-9ddb-ffa24116e00f)
